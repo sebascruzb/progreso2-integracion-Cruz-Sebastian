@@ -1,0 +1,6 @@
+edu\udla\integracion\progreso2\config\RabbitMQConfig.class
+edu\udla\integracion\progreso2\controller\CitaController.class
+edu\udla\integracion\progreso2\routes\CitaIntegrationRoute.class
+edu\udla\integracion\progreso2\service\CitaValidationService.class
+edu\udla\integracion\progreso2\model\CitaRequest.class
+edu\udla\integracion\progreso2\Progreso2Application.class

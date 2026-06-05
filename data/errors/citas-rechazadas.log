@@ -1,0 +1,3 @@
+# Log de citas rechazadas - Sistema Salud360
+# Formato: ERROR DE VALIDACIÓN / ERROR DE PROCESAMIENTO
+# Campos: Fecha/Hora, idCita, Motivos/Motivo, Payload
