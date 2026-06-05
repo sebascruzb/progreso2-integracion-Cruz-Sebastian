@@ -1,9 +1,9 @@
 # Progreso 2 – Integración de Sistemas: Salud360
 
-**Nombre del estudiante:** [Tu Nombre Completo]  
+**Nombre del estudiante:** Raul Sebastian Cruz Baño  
 **Materia:** Integración de Sistemas  
 **Evaluación:** Examen Práctico Progreso 2  
-**Fecha:** Junio 2026
+**Fecha:** 4 de Junio 2026
 
 ---
 
